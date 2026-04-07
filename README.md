@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou um petiano
 
-<!--
-**teste123-sketch/teste123-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou membro do PET-SI e amo corujas 🦉
 
-Here are some ideas to get you started:
+## Sobre mim
+- Sou muito fã do BXCOMP
+- Gosto de visitar o instagram do PET-SI no meu tempo livre
+- Faço Sistemas de Informação na EACH-USP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coisas que eu sabo demais:
+- C
+- Estrutura de dados
+- FSI
+- Cálculo
+
+Ferramentas que utilizo no meu dia a dia:
+- Git
+- GitHub
+- VS Code
+
+📫 Meios de me conatatar:
+[Linkedin](linkedin.com)
+[Email](enzobmattos@usp.br)
